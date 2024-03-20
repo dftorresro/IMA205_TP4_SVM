@@ -1,6 +1,6 @@
 # Object Tracking Particle Filter
 
-This repository contains a particle filter implementation designed for object tracking in video sequences. The particle filter uses two appearance models: Mean Squared Error (MSE) based and histogram-based (using Bhattacharyya distance) for comparing the tracked object's template with candidate patches.
+Particle Filter framework for robust object tracking in video sequences, featuring customizable state propagation, resampling techniques, and innovative appearance models based on Mean Squared Error and color histogram comparisons for high-accuracy localization and tracking.
 
 ## Features
 
